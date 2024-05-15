@@ -13,6 +13,3 @@ popBabyTb/popBabyTb is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-福井の情報系大学生です。
-C言語、Java、Python履修済です。 <br>
-将来はアプリケーション開発に携わりたいと考えています。
